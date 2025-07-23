@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DivyakantAwasthi
 - 👀 I’m interested in Java Develoment
-- 🌱 I’m currently learning kafka
+- 🌱 I’m currently learning kubernetes
 - 📫 I am reachable at divyakant846@gmail.com
 
 <!---
